@@ -7,7 +7,7 @@ Flask starter project... https://cloud.docker.com  demo
 
 ### Basics
 
-1. Activate a virtualenv
+1. Activate a virtualenv.
 1. Install the requirements
 
 ### Set Environment Variables
